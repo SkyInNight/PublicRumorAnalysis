@@ -127,3 +127,10 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+
+# Pycharm
+.idea
+
+# 训练模型
+sgns/
