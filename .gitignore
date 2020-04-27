@@ -134,3 +134,6 @@ dmypy.json
 
 # 训练模型
 sgns/
+
+# 返回数据集
+crawler/sourse_data
